@@ -1,0 +1,19 @@
+step 13_smallProject
+
+자율 주제 프로젝트 - 중고 거래
+
+3~4인 구성
+
+아키텍쳐
+mvc + dto + dao 필수
+
+singleton(옵션)
+
+server 적용 여부도 옵션
+
+log 기록 필수
+
+클린 코드 필수
+리팩토링 필수
+
+draw.io사이트 통해서 모델링 필수
